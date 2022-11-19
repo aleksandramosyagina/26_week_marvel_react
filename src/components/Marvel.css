@@ -1,0 +1,21 @@
+.marvel-card {
+    height: 850px;
+    width: 400px;
+    margin: 40px;
+    margin-bottom: 100px;
+}
+
+.name {
+font-size: 1.5em;
+font-weight: bold;
+text-align: center;
+}
+
+.marvel_photo {
+    position: relative;
+    width: 400px;
+}
+
+.name, .Universe, .alter_ego, .who, .friends, .power, .marvel_photo {
+    margin-bottom: 10px
+}
